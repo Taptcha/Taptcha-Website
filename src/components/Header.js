@@ -10,7 +10,7 @@ function Header() {
 
         <div className={s.menu}>
           <p className={`${s.item} ${s.selected}`}>Home</p>
-          <p className={s.item}>Document</p>
+          <p className={s.item}>Documentation</p>
         </div>
       </div>
     </div>
